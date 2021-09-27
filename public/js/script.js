@@ -1,5 +1,3 @@
-const apiKey = 'f8a3dfe6096b4ffcba6b934b0fb526fc';
-
 const headers = new Headers();
 
 const reqInIt = { method:'GET', headers:headers, mode:'cors', cache:'default' };
