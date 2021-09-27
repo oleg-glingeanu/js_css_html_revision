@@ -1,0 +1,42 @@
+html {
+  font-size: 100%;
+  font-family: "Open Sans", sans-serif;
+}
+
+#btn {
+  background-color: rgb(37, 139, 77);
+  margin-bottom: 10px;
+  margin: auto;
+  border: 10px white solid;
+  padding: 10px;
+  color: rgb(255, 255, 255);
+}
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 1rem;
+  margin: 0;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+h2 {
+  font-size: 2rem;
+}
+article {
+  background-color: rgb(121, 121, 121);
+  margin-bottom: 10px;
+  margin: auto;
+  width: 50%;
+  border: 2px white solid;
+  padding: 10px;
+  color: rgb(255, 255, 255);
+}
+article h4 {
+  color: rgb(255, 255, 255);
+}
+article img {
+  max-width: 800px;
+}
